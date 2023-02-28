@@ -1,6 +1,6 @@
 Namorada: Amanda Lima 😍
 
-Sensei: Vinicius Setembrino 🐱‍👤👾👽👻
+Sensei: Tinhoso 🐱‍👤👾👽👻
 
 Aprendendo: Python, Html, CSS, JS 🧠
 
