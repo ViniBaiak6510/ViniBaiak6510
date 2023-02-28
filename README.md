@@ -1,7 +1,7 @@
 **Vinicius Baiak**
 
-Aprendendo: Python, Html, CSS, JS 🧠
+* Aprendendo: Python, Html, CSS, JS 🧠
 
-Linguagens Trabalhadas: Java e SQL 😎
+* Linguagens Trabalhadas: Java e SQL 😎
 
-Nacionalidade: Brasil 💚💛
+* Nacionalidade: Brasil 💚💛
