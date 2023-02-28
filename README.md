@@ -15,7 +15,7 @@ Social:
   <img align="center" src="https://img.shields.io/badge/-Vinicius Baiak Goes-05122A?style=flat&logo=facebook" alt="Facebook"/>
 </a>
 <a href="https://twitter.com/vini_baiak?t=ERQJZkMOtbO0SF22aD54ZQ&s=09" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-vini_baiak-05122A?style=flat&logo=twitter" alt="twitter"/>
+  <img align="center" src="https://img.shields.io/badge/-vini__baiak-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
 <a href="" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Vinicius Baiak-05122A?style=flat&logo=Discord" alt="Discord"/>
