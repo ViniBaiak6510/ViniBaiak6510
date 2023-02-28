@@ -21,5 +21,5 @@ Social:
   <img align="center" src="https://img.shields.io/badge/-Vinicius Baiak-05122A?style=flat&logo=Discord" alt="Discord"/>
 </a>
 <a href="" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-viiniciusbaiak6510@gmail.com-05122A?style=flat&logo=Gmail" alt="Gmail"/>
+  <img align="center" src="https://img.shields.io/badge/-viniciusbaiak6510@gmail.com-05122A?style=flat&logo=Gmail" alt="Gmail"/>
 </a>
